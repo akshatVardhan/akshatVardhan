@@ -26,16 +26,11 @@ I'm a developer who loves turning ideas into clean, efficient code. I focus on l
 - **Stack:** `JavaScript`
 - [View Repository →](https://github.com/akshatVardhan/Vestara)
 
-### 🧮 LeetCode Solutions — Algorithms & data structures
-- Competitive programming and optimization
-- **Stack:** `Java`
-- [View Repository →](https://github.com/akshatVardhan/leet_solutions)
-
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript · Java · HTML · CSS
+**Languages:** JavaScript · HTML · CSS
 
 **Concepts:** Data Structures · Algorithms · Full-Stack Development · API Design
 
@@ -47,7 +42,7 @@ I'm a developer who loves turning ideas into clean, efficient code. I focus on l
 
 - 📦 4 Public Repositories
 - 🔥 14+ Contributions (Last Year)
-- 💡 3 Active Projects
+- 💡 2 Active Projects
 - 🎯 Focus: DSA & Web Development
 
 ---
