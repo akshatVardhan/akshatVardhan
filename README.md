@@ -1,71 +1,31 @@
-# 👋 Akshat Vardhan
+<div align="center">
 
-### Passionate Developer | Problem Solver | Code Enthusiast
+[![Akshat Vardhan](https://readme-typing-svg.demolab.com?font=Fira+Sans+Condensed&weight=600&size=44&color=6E7681&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Akshat+Vardhan)](https://github.com/akshatVardhan)
 
----
+</div>
 
-## 🚀 About Me
+DevOps Engineer building cloud infrastructure and AI systems.
 
-> Building elegant solutions one commit at a time.
->
-> I'm a developer who loves turning ideas into clean, efficient code. I focus on learning new technologies, solving challenging problems, and creating meaningful projects.
->
-> ---
->
-> ## 💻 Projects
->
-> ### 🚌 CommuteWatch
-> **Intelligent commute tracking & optimization**
-> - Real-time transit monitoring and route optimization
-> - - Stack: `HTML` `CSS` `JavaScript`
->   - - [View Repository →](https://github.com/akshatVardhan/CommuteWatch)
->    
->     - ### 💼 Vestara
->     - **Portfolio management application**
->     - - Personal investment & asset tracking
->       - - Stack: `JavaScript`
->         - - [View Repository →](https://github.com/akshatVardhan/Vestara)
->          
->           - ### 🧮 LeetCode Solutions
->           - **Algorithms & data structures**
->           - - Competitive programming and optimization
->             - - Stack: `Java`
->               - - [View Repository →](https://github.com/akshatVardhan/leet_solutions)
->                
->                 - ---
->
-> ## 🛠️ Tech Stack
->
-> **Languages:** JavaScript • Java • HTML • CSS
->
-> **Concepts:** Data Structures • Algorithms • Full-Stack Development • API Design
->
-> **Tools:** Git • GitHub • VS Code • Problem Solving
->
-> ---
->
-> ## 📊 Quick Stats
->
-> - 📦 4 Public Repositories
-> - - 🔥 14+ Contributions (Last Year)
->   - - 💡 3 Active Projects
->     - - 🎯 Focus: DSA, Web Development
->      
->       - ---
->
-> ## ✨ What I'm Into
->
-> - 🔍 Algorithmic Problem Solving
-> - - 🌐 Web Development
->   - - 📈 Continuous Learning
->     - - 🤝 Collaboration & Open Source
->      
->       - ---
->
-> ## 🔗 Connect With Me
->
-> 📧 [Email](#) • 💼 [LinkedIn](#) • 🐙 [GitHub](https://github.com/akshatVardhan)
->
-> ---
->
-> > "Code is like humor. When you have to explain it, it's bad." — Cory House
+I work across cloud and infrastructure — provisioning, automation, and configuration management — and I'm focused on collaborating with AI by building my own retrieval-augmented (RAG) systems.
+
+## Focus
+
+Collaboration with AI and building my own RAG-based systems, grounded in a DevOps practice: cloud infrastructure, configuration management, and infrastructure as code.
+
+## Experience
+
+DevOps Engineer — cloud provisioning, infrastructure configuration, and automation. Day-to-day work with Terraform and Ansible for infrastructure as code and configuration management.
+
+## Projects
+
+**CommuteWatch** — Real-time commute tracking and route optimization. `HTML` `CSS` `JavaScript` · [Repository](https://github.com/akshatVardhan/CommuteWatch)
+
+**Vestara** — Portfolio management for investment and asset tracking. `JavaScript` · [Repository](https://github.com/akshatVardhan/Vestara)
+
+## Tech
+
+Terraform · Ansible · Cloud · CI/CD · RAG · JavaScript · Git
+
+## Connect
+
+[GitHub](https://github.com/akshatVardhan) · [LinkedIn](#) · [Email](#)
