@@ -18,6 +18,8 @@ DevOps Engineer — cloud provisioning, infrastructure configuration, and automa
 
 ## Projects
 
+**RecruitFlow AI** — AI-powered recruitment workflow with RAG-based candidate screening and matching. `Python` · [Repository](https://github.com/akshatVardhan/RecruitFlow-AI)
+
 **CommuteWatch** — Real-time commute tracking and route optimization. `HTML` `CSS` `JavaScript` · [Repository](https://github.com/akshatVardhan/CommuteWatch)
 
 **Vestara** — Portfolio management for investment and asset tracking. `JavaScript` · [Repository](https://github.com/akshatVardhan/Vestara)
