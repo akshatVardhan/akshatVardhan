@@ -1,4 +1,8 @@
-# Akshat Vardhan
+<div align="center">
+
+[![Akshat Vardhan](https://readme-typing-svg.demolab.com?font=Fira+Sans+Condensed&weight=600&size=44&color=6E7681&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Akshat+Vardhan)](https://github.com/akshatVardhan)
+
+</div>
 
 DevOps Engineer building cloud infrastructure and AI systems.
 
